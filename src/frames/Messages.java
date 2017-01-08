@@ -1,7 +1,6 @@
 
 package frames;
 
-import java.io.File;
 import javax.swing.JOptionPane;
 
 public class Messages {

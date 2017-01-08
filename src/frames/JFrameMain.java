@@ -7,7 +7,6 @@ import exception.MessageException;
 import java.awt.Toolkit;
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.util.ArrayList;
 import splitter.Info;
 import splitter.Merge;
 import splitter.Split;
